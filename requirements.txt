@@ -1,9 +1,6 @@
-numpy
 pandas
+numpy
 matplotlib
 scikit-learn
 tensorflow
-keras-tuner
-statsmodels
-seaborn
-openpyxl
+keras
